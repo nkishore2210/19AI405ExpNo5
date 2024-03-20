@@ -39,7 +39,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 ### PROGRAM:
-```
+```python
 import random
 import string
 def generate_random_solution(answer):
