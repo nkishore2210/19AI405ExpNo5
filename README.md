@@ -1,4 +1,5 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
+
 <h3>Name: KISHORE N</h3>
 <h3>Register Number: 212222240049</h3>
 <H3>Aim:</H3>
@@ -98,3 +99,6 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## RESULT :
+Thus Implement Simple Hill Climbing Algorithm is successfully executed.
